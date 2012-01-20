@@ -16,7 +16,5 @@ author :
   name : martin
   email : martin@kloeckner.org
   github : mkloeckner
-  twitter : 
-  feedbuder : 
 
 exclude: .rbenv-version
